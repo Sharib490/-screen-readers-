@@ -1,1 +1,3 @@
-git remote add origin https://github.com/<username>/webframeworks-dashboard.git
+git init
+git add .
+git commit -m "Initial commit: screen-reader"
