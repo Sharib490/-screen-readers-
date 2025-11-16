@@ -1,7 +1,0 @@
-header class ="h-16 flex items-center px-4 bg-white shadow z-40"{
-<button id="hamburger" aria-controls="sidebar" aria-expanded="false" class="p-2 rounded-md focus:outline focus:ring">
-<svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
-<span class="sr-only">Toggle navigation</span>
-</button>
-<h1 class="ml-3 text-xl font-medium">Dashboard</h1>
-</header>}
